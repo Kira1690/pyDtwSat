@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: pyDTWSat
+Version: 0.0.1
+Summary: Will update description later
+Home-page: https://github.com/Kira1690/pyDTWSat.git
+Author: Vishal D Dafada
+Author-email: dafadavishal6@gmail.com
+License: Apache 2.0
+Keywords: Satellite image Analysis
+License-File: LICENSE
+
+# pyDTWSat
+Dynamic Time Warping andTime-Weighted Dynamic Time Warping (TWDTW) for satellite image time series analysis.
