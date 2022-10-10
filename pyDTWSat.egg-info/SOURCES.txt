@@ -1,7 +1,6 @@
 LICENSE
 README.md
 setup.py
-TS_sat/timeseries_patterns.py
 dtw_sat/dtwSat.py
 pyDTWSat.egg-info/PKG-INFO
 pyDTWSat.egg-info/SOURCES.txt

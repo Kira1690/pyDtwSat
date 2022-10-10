@@ -1,5 +1,7 @@
-# pyDTWSat
-Dynamic Time Warping andTime-Weighted Dynamic Time Warping (TWDTW) for satellite image time series analysis.
+# pyDtwSat
+This Package is adapted from Victor maus's R package dtwSat.
+
+Dynamic Time Warping and Time-Weighted Dynamic Time Warping (TWDTW) for satellite image time series analysis.
 
 
 
