@@ -1,8 +1,0 @@
-LICENSE
-README.md
-setup.py
-dtw_sat/dtwSat.py
-pyDTWSat.egg-info/PKG-INFO
-pyDTWSat.egg-info/SOURCES.txt
-pyDTWSat.egg-info/dependency_links.txt
-pyDTWSat.egg-info/top_level.txt
