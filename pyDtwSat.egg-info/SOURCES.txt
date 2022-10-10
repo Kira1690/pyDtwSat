@@ -1,7 +1,13 @@
 LICENSE
+MANIFEST.in
 README.md
 setup.py
+dist/pyDtwSat-0.0.1-py3-none-any.whl
+dist/pyDtwSat-0.0.1.tar.gz
+dtw_sat/dtwSat.py
 pyDtwSat.egg-info/PKG-INFO
 pyDtwSat.egg-info/SOURCES.txt
 pyDtwSat.egg-info/dependency_links.txt
 pyDtwSat.egg-info/top_level.txt
+time_series/timeseries_patterns.py
+time_series/__pycache__/timeseries_patterns.cpython-310.pyc

@@ -1,19 +1,19 @@
 Metadata-Version: 2.1
 Name: pyDtwSat
-Version: 0.0.1
-Summary: Will update description later
+Version: 0.0.2
+Summary: Python adaptation of R lirary dtwSat
 Home-page: https://github.com/Kira1690/pyDtwSat.git
 Author: Vishal D Dafada
 Author-email: dafadavishal6@gmail.com
 License: Apache 2.0
 Keywords: Satellite image Analysis
+Description-Content-Type: text/markdown
 License-File: LICENSE
 
 # pyDtwSat
-This Package is adapted from Victor maus's R package dtwSat.
+This Package is adapted from Victor Maus's R package dtwSat.
 
-Dynamic Time Warping and Time-Weighted Dynamic Time Warping (TWDTW) for satellite image time series analysis.
-
+Dynamic Time Warping and Time-Weighted Dynamic Time Warping (TWDTW) for satellite image time series analysis. pyDtwSat provides visulisation to land use land cover  classification of the time series of satellite images.
 
 
 
