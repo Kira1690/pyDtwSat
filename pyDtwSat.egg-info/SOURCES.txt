@@ -3,6 +3,7 @@ README.md
 setup.py
 pyDtwSat/__init__.py
 pyDtwSat/dtw.py
+pyDtwSat/models.py
 pyDtwSat/timeseries.py
 pyDtwSat.egg-info/PKG-INFO
 pyDtwSat.egg-info/SOURCES.txt

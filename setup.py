@@ -10,7 +10,7 @@ def read(fname):
 
 setup(
     name = "pyDtwSat",
-    version = "0.1.01",
+    version = "0.1.2",
     author = "Vishal D Dafada",
     author_email = "dafadavishal6@gmail.com",
     description = ("Python adaptation of R lirary dtwSat"),
