@@ -6,7 +6,7 @@ from scipy.interpolate import splprep, splev
 import matplotlib.pyplot as plt
 from matplotlib import path
 
-from timeseries_patterns import *
+from timeseries import *
 
 def mlwf(alpha,beta, t_i,t_j):
     g = abs(int(t_i) - int(t_j))

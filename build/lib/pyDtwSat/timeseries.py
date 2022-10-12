@@ -80,7 +80,6 @@ def show_point_on_map(raster_file, referance_file):
     type_df = get_pos_val(raster_file, referance_file)
     for df in type_df:
         position = df['position']
-        print(df.label[0])
         raster=gdal.Open(raster_file) 
         array = raster.ReadAsArray()
         array = np.flip(array, 1)

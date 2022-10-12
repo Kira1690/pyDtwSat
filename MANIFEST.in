@@ -1,6 +1,0 @@
-recursive-include build *.py
-recursive-include dist *.gz
-recursive-include dist *.whl
-recursive-include dtw_sat *.py
-recursive-include time_series *.py
-recursive-include time_series *.pyc

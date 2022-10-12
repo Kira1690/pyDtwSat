@@ -10,14 +10,16 @@ def read(fname):
 
 setup(
     name = "pyDtwSat",
-    version = "0.0.2",
+    version = "0.1.01",
     author = "Vishal D Dafada",
     author_email = "dafadavishal6@gmail.com",
     description = ("Python adaptation of R lirary dtwSat"),
     license = "Apache 2.0",
     keywords = "Satellite image Analysis",
     url = "https://github.com/Kira1690/pyDtwSat.git",
-    packages=find_packages(where='cn_tools'),
+    python_requires='>=3.8, <4',
+    install_requires=['scipy','matplotlib','pandas', 'sklern'],
+    packages=find_packages(),
     long_description=read('README.md'),
     long_description_content_type='text/markdown'
 )
